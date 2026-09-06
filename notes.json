@@ -1,13 +1,19 @@
 {
   "version": 1,
   "app": "Abbas NexGen Learning Hub Notes",
-  "updatedAt": "2026-09-06T11:43:50.515Z",
+  "updatedAt": "2026-09-06T11:48:37.201Z",
   "courses": {
     "course_mtpew8od_cuvin6": {
       "id": "course_mtpew8od_cuvin6",
       "name": "ms word",
       "createdAt": "2026-09-06T06:09:31.117Z",
       "updatedAt": "2026-09-06T06:09:31.117Z"
+    },
+    "course_mtpr0aey_amtsob": {
+      "id": "course_mtpr0aey_amtsob",
+      "name": "excel",
+      "createdAt": "2026-09-06T11:48:35.386Z",
+      "updatedAt": "2026-09-06T11:48:35.386Z"
     }
   },
   "notes": {}
